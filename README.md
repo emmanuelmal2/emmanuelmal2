@@ -97,7 +97,3 @@ Whether it's research, app development, or open-source collaboration—let’s b
 
 </div>
 
-------
-Credit: Original template by [huiishan99](https://github.com/huiishan99)
-
-Last Edited on: 19/11/2025
