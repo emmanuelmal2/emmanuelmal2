@@ -16,32 +16,19 @@ Every day I work on improving my technical skills through personal projects, boo
 - **B.S. in Computer Engineering (ongoing)**  
   Universidad Nacional Autónoma de México (UNAM) — Facultad de Ingeniería  
   *Expected graduation: June 2026*
-- **TripleTen Data Science Bootcamp** — In progress  
-- **Udemy Full-Stack Development Program** — In progress
 
 ## 💻 Tech Interests
 I’m deeply motivated by:
 - **Software Engineering**
 - **Artificial Intelligence & Machine Learning**
-- **Computer Vision (OpenCV, face/objects recognition)**
 - **Full-Stack Development (React, Node.js, databases)**
-- **Cloud Computing Fundamentals**
-- **Data Science & Data Engineering**
 
 I enjoy creating practical projects such as:
 - Smart assistants  
-- Image classifiers  
 - Web apps and APIs  
 - Vision systems  
 - Learning and automation tools  
 
-## 🤖 Why Artificial Intelligence?
-AI allows us to solve real, impactful problems using creativity + technology.  
-From building models that see, classify, and understand the world, to developing smart apps that adapt to users, AI offers infinite possibilities.
-
-## 🤝 Let's Collaborate
-If you're working on AI, software engineering, web dev, or data projects, I’d love to connect.  
-Whether it's research, app development, or open-source collaboration—let’s build something amazing together!
 
 </div>
 
