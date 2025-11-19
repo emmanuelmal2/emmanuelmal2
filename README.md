@@ -82,7 +82,7 @@ Whether it's research, app development, or open-source collaboration—let’s b
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=emmanuelmal2&color=brightgreen)
+
 
 </div>
 
