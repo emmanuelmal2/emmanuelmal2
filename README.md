@@ -6,10 +6,11 @@
 
 
 ## 🌍 About Me
-Hi! I'm **Emmanuel Maldonado**, a Computer Engineering student from **Mexico**, currently in my 8th semester at **UNAM – Facultad de Ingeniería**.  
-I'm passionate about **Artificial Intelligence**, **full-stack development**, **computer vision**, and **data science**. My goal is to become an **AI Engineer** and work internationally in cutting-edge tech companies.
+Hi! I'm **Emmanuel Maldonado**, a Computer Engineering student from **Mexico**, currently in my 8th semester at **UNAM – Facultad de Ingeniería**.
 
-Every day I work on improving my technical skills through projects, bootcamps, and certifications. I'm especially interested in building real-world systems using **machine learning**, **deep learning**, and **automation**.
+My goal is to become a **Software Engineer**, with strong interests in **Artificial Intelligence**, **full-stack development**, and **computer vision**. I’m always building projects that push me forward in AI, automation, and modern software development.
+
+Every day I work on improving my technical skills through personal projects, bootcamps, and certifications. I enjoy creating real-world solutions using machine learning and smart applications that interact with data and the physical world.
 
 ## 🎓 Education
 - **B.S. in Computer Engineering (ongoing)**  
@@ -20,24 +21,34 @@ Every day I work on improving my technical skills through projects, bootcamps, a
 
 ## 💻 Tech Interests
 I’m deeply motivated by:
+- **Software Engineering**
 - **Artificial Intelligence & Machine Learning**
-- **Computer Vision (OpenCV, face recognition, classification)**
-- **Full-Stack Development (React, Node, databases)**
-- **Cloud Computing (AWS fundamentals)**
+- **Computer Vision (OpenCV, face/objects recognition)**
+- **Full-Stack Development (React, Node.js, databases)**
+- **Cloud Computing Fundamentals**
 - **Data Science & Data Engineering**
 
-I enjoy creating practical projects such as smart assistants, image classifiers, and interactive apps.
+I enjoy creating practical projects such as:
+- Smart assistants  
+- Image classifiers  
+- Web apps and APIs  
+- Vision systems  
+- Learning and automation tools  
 
 ## 🤖 Why Artificial Intelligence?
 AI allows us to solve real, impactful problems using creativity + technology.  
-From building models that see, classify, and understand, to developing smart apps that learn from users, AI offers infinite possibilities.
+From building models that see, classify, and understand the world, to developing smart apps that adapt to users, AI offers infinite possibilities.
 
 ## 🤝 Let's Collaborate
-If you're working on AI, vision, full-stack, or data projects, I’d love to connect.  
-Whether it's research, app development, or open-source collaboration—let’s build something awesome together!
+If you're working on AI, software engineering, web dev, or data projects, I’d love to connect.  
+Whether it's research, app development, or open-source collaboration—let’s build something amazing together!
 
 </div>
 
+
+---
+
+### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=emmanuelmal2&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
@@ -55,34 +66,58 @@ Whether it's research, app development, or open-source collaboration—let’s b
 </a>
 
 
+---
+
+### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=emmanuelmal2&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+---
+
+## 🧰 Technologies & Tools
+
 <p align="center"> 
+
+  <!-- Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/> 
+  </a>
+
+  <!-- Web -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
   </a>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
+  </a>
+
+  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> 
   </a>
+
+  <!-- AI / CV -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="50" height="50"/> 
   </a>
+
 </p>
 
+---
 
+![](https://komarev.com/ghpvc/?username=emmanuelmal2&color=brightgreen)
 
 </div>
 
