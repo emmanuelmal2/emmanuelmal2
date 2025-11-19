@@ -22,7 +22,7 @@ I’m deeply motivated by:
 - **Software Engineering**
 - **Artificial Intelligence & Machine Learning**
 - **Full-Stack Development**
-I enjoy creating practical projects such as:
+## I enjoy creating practical projects such as:
 - Smart assistants  
 - Web apps and APIs  
 - Vision systems  
