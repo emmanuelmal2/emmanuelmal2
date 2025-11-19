@@ -89,6 +89,9 @@ Whether it's research, app development, or open-source collaboration—let’s b
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/> 
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
+  </a>
 
   <!-- Web -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
@@ -108,12 +111,8 @@ Whether it's research, app development, or open-source collaboration—let’s b
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> 
   </a>
 
-  <!-- AI / CV -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="50" height="50"/> 
-  </a>
-
 </p>
+
 
 ---
 
