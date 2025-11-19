@@ -6,11 +6,11 @@
 
 
 ## 🌍 About Me
-Hi! I'm **Emmanuel Maldonado**, a Computer Engineering student from **Mexico**, currently in my 8th semester at **UNAM – Facultad de Ingeniería**.
+Hi! I'm **Emmanuel Maldonado**, a Computer Engineering student from **Mexico**, at **UNAM – Facultad de Ingeniería**.
 
-My goal is to become a **Software Engineer**, with strong interests in **Artificial Intelligence**, **full-stack development**, and **computer vision**. I’m always building projects that push me forward in AI, automation, and modern software development.
+My goal is to become a **Software Engineer**, with strong interests in **Artificial Intelligence** and **full-stack development** I’m always building projects that push me forward in AI, automation, and modern software development.
 
-Every day I work on improving my technical skills through personal projects, bootcamps, and certifications. I enjoy creating real-world solutions using machine learning and smart applications that interact with data and the physical world.
+Every day I work on improving my technical skills through personal projects and certifications. I enjoy creating real-world solutions using machine learning and smart applications that interact with data and the physical world.
 
 ## 🎓 Education
 - **B.S. in Computer Engineering (ongoing)**  
