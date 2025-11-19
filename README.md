@@ -21,7 +21,7 @@ Every day I work on improving my technical skills through personal projects and 
 I’m deeply motivated by:
 - **Software Engineering**
 - **Artificial Intelligence & Machine Learning**
-- **Full-Stack Development 
+- **Full-Stack Development**
 I enjoy creating practical projects such as:
 - Smart assistants  
 - Web apps and APIs  
