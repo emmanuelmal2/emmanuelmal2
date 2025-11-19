@@ -6,41 +6,52 @@
 
 
 ## 🌍 About Me
-I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to the enchanting Rafflesia flowers, intriguing proboscis monkeys, and majestic orangutans. Now, I'm immersing myself in the world of Computer Science as a Master's student at University of Aizu in Japan.
+Hi! I'm **Emmanuel Maldonado**, a Computer Engineering student from **Mexico**, currently in my 8th semester at **UNAM – Facultad de Ingeniería**.  
+I'm passionate about **Artificial Intelligence**, **full-stack development**, **computer vision**, and **data science**. My goal is to become an **AI Engineer** and work internationally in cutting-edge tech companies.
+
+Every day I work on improving my technical skills through projects, bootcamps, and certifications. I'm especially interested in building real-world systems using **machine learning**, **deep learning**, and **automation**.
 
 ## 🎓 Education
-- **Bachelor's Degree in Engineering, Major in E-Commerce**  
-  Northwestern Polytechnical University, China
-- **Japanese Language Studies**  
-  1.5 years at a Language School in Tokyo, Japan
-- **Master's student in Computer Science**  
-  University of Aizu, Japan
+- **B.S. in Computer Engineering (ongoing)**  
+  Universidad Nacional Autónoma de México (UNAM) — Facultad de Ingeniería  
+  *Expected graduation: June 2026*
+- **TripleTen Data Science Bootcamp** — In progress  
+- **Udemy Full-Stack Development Program** — In progress
 
 ## 💻 Tech Interests
-I have a deep passion for **game development**. Living in Japan, the heartland of companies like Nintendo, Sony, and Capcom, fuels my inspiration every day. I'm dedicated to mastering the art and science of creating engaging, immersive gaming experiences.
+I’m deeply motivated by:
+- **Artificial Intelligence & Machine Learning**
+- **Computer Vision (OpenCV, face recognition, classification)**
+- **Full-Stack Development (React, Node, databases)**
+- **Cloud Computing (AWS fundamentals)**
+- **Data Science & Data Engineering**
 
-## 🎮 Why Game Development?
-The creativity and technology behind games fascinate me. From storyline crafting to character development and programming, each aspect of game development provides a canvas to innovate and entertain.
+I enjoy creating practical projects such as smart assistants, image classifiers, and interactive apps.
+
+## 🤖 Why Artificial Intelligence?
+AI allows us to solve real, impactful problems using creativity + technology.  
+From building models that see, classify, and understand, to developing smart apps that learn from users, AI offers infinite possibilities.
 
 ## 🤝 Let's Collaborate
-Whether you're passionate about technology, a fellow game development enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
+If you're working on AI, vision, full-stack, or data projects, I’d love to connect.  
+Whether it's research, app development, or open-source collaboration—let’s build something awesome together!
 
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=emmanuelmal2&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=gotham#gh-dark-mode-only" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=emmanuelmal2&show_icons=true&theme=gotham#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmal2&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=emmanuelmal2&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmal2&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
 <picture>
@@ -56,31 +67,37 @@ Whether you're passionate about technology, a fellow game development enthusiast
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=huiishan99&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=emmanuelmal2&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-  </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
+  </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=emmanuelmal2&color=brightgreen)
 
 </div>
 
 ------
-Credit: [huiishan99](https://github.com/huiishan99)
+Credit: Original template by [huiishan99](https://github.com/huiishan99)
 
-Last Edited on: 23/06/2024
+Last Edited on: 19/11/2025
