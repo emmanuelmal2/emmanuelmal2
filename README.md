@@ -15,7 +15,7 @@ Every day I work on improving my technical skills through personal projects and 
 ## 🎓 Education
 - **B.S. in Computer Engineering (ongoing)**  
   Universidad Nacional Autónoma de México (UNAM) — Facultad de Ingeniería  
-  *Expected graduation: June 2026*
+  *Expected graduation: December 2026*
 
 ## 💻 Tech Interests
 I’m deeply motivated by:
